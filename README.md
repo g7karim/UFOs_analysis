@@ -13,4 +13,6 @@ As mentioned, the webpage includes filter criteria on the left hand side such as
 UFO webpage![UFO webpage](https://user-images.githubusercontent.com/79559910/124054486-186b5d80-d9f0-11eb-9476-1c11311f41a7.png)
 
 
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+### Summary:
+The shortcomings of the websites is the search criteria does not allow ti search for specific word or sentence, even after using the filter criteria the user has to scroll through some data. The other shortcoming is that the data is not lives data but rather stored data. The data will always stay the same unless it is manually updated and changed. If not updated the webpage could have outdated and unreliable data. Those are the areas that need improvement in my view.
