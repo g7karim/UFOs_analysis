@@ -3,7 +3,7 @@
 
 ## Overview of Project:
 
-As per Dana's request, the purpose of this analysis is to gather gather data from various UFO sources arond United States and include them in an easy to use webpage. Dana specifically would like to provide more in-depth analysis of UFO sightings and also allow users to filter through data to get specific results. Therefore filter criteria such as date, city, state, country and shape were added to the webpage. The webpage was created with JavaScript, html and css.
+As per Dana's request, the purpose of this analysis is to gather data from various UFO sources arond United States and include them in an easy to use webpage. Dana specifically would like to provide more in-depth analysis of UFO sightings and also allow users to filter through data to get specific results. Therefore filter criteria such as date, city, state, country and shape were added to the webpage. The webpage was created with JavaScript, html and css.
 
 
 ## Results: 
